@@ -1,4 +1,4 @@
-# ¡Hola! Soy Octavio Solares 👋
+# ¡Hola! Soy Octavio Collado 👋
 
 Soy estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahermosa, especializándome en **Infraestructura y Seguridad de Redes**, con una fuerte pasión por el desarrollo de software y la integración de hardware.
 
